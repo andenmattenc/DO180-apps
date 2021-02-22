@@ -1,0 +1,4 @@
+NAME                      READY   STATUS      RESTARTS   AGE
+php-helloworld-1-build    0/1     Completed   0          18m
+php-helloworld-1-deploy   0/1     Completed   0          17m
+php-helloworld-1-f4p44    1/1     Running     0          17m
